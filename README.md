@@ -1,6 +1,6 @@
 # Matrix Inverse
 
-this c# code will calculate 3x3 matrix inverse
+This c# code will calculate 3x3 matrix inverse
 
 The code can bu run in the following link:
 https://paiza.io/projects/yrSqBjoxhnAtgGjj3JnJjg
