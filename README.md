@@ -6,6 +6,7 @@ The code can bu run in the following link:
 https://paiza.io/projects/yrSqBjoxhnAtgGjj3JnJjg
 
 The output is
+
 -------------------------------------------------
 The matrix is :
 2  1  0  
