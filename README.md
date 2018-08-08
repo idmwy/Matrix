@@ -1,3 +1,3 @@
 # Matrix Inverse
 
-this code will calculate 3x3 matrix inverse
+this c# code will calculate 3x3 matrix inverse
