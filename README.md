@@ -9,6 +9,7 @@ The output is
 
 -------------------------------------------------
 The matrix is :
+
 2  1  0  
 2  0  0  
 2  0  1  
@@ -19,6 +20,7 @@ The Determinant of the matrix is: -2
 The Determinant of the matrix is: -2
 
 The inverse matrix is :
+
 0  0.5  0  
 1  -1  0  
 0  -1  1  
