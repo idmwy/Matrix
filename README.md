@@ -1,4 +1,4 @@
-# Matrix Inverse
+# Matrix Inverse and Product
 
 This c# code will calculate 3x3 matrix inverse
 
@@ -25,7 +25,8 @@ The inverse matrix is :
 1  -1  0  
 0  -1  1  
 
-
+The Product matrix is :
+400  240  241 
 ------------------------------------------------
 
 
