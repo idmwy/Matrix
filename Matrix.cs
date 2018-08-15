@@ -51,6 +51,20 @@ public class MatrixInverse
         }
     }
     
+	
+	    //// prints out a*b
+    private static void Product(int[,] A, int[] B)
+    {
+	int[] C = new int[B.Length];
+    	int x;
+        System.Console.Write("The Product matrix is :\n");
+	for(x=0; x<i; x++)
+	{
+ 		C[x] = A[x,0]*B[0] + A[x,1]*B[1] + A[x,2]*B[2];
+	        System.Console.Write("{0}  ",C[x]);
+	}
+    }
+	
     public static void Main( )
     {
         //System.Console.WriteLine("Write your code at here");
@@ -81,5 +95,11 @@ public class MatrixInverse
 	    
 	det= Determinant(arr1);  
       	Inverse(arr1);
+	    
+	int[] arr2 = new int[3];
+        arr2[0] = 120;
+        arr2[1] = 160;
+        arr2[2] =1;
+        Product(arr1,arr2);
      }
 }
